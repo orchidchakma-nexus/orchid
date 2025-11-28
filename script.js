@@ -111,9 +111,10 @@ window.addEventListener('scroll', debounce(handleScroll, 10));
 const typingText = document.getElementById('typingText');
 const titles = [
     'Lead Generation Specialist',
-    'Sales Development Expert',
+    'Business Development Expert',
     'B2B Sales Professional',
-    'CRM Management Specialist'
+    'CRM Management Specialist',
+    'Email Marketing Expert'
 ];
 
 let titleIndex = 0;
